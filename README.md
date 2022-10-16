@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @gajjarmd
+- 👋 Hi, I’m Mansihkuamr Gajajr
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Data Sceince fromSimplelearn
+- 🌱 I’m currently learning Data Sceince from Simplelearn
 - 💞️ I’m looking to collaborate on Data sceince Project, Data explorer, Data manipulation
 - 📫 gajjarmd@gmail.com
 
