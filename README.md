@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mansihkuamr Gajajr
+- 👋 Hi, I’m Mansihkuamr Gajjar
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Data Sceince from Simplelearn
 - 💞️ I’m looking to collaborate on Data sceince Project, Data explorer, Data manipulation
